@@ -1,1 +1,3 @@
-const user = {}
+const user = {
+    age:30
+}
